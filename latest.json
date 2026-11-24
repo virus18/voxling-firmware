@@ -1,11 +1,78 @@
 {
  "v": 1,
  "kunde": {
-  "version": "0.8.5",
-  "groesse": 1318784,
-  "sha256": "b239a1e6579c5df6efe1caf17448ee14a763ca1f7b48ff2ca04843ddc7cda220",
-  "bin": "firmware/0.8.5/voxling.bin",
-  "schein": "firmware/0.8.5/voxling.bin.schein",
-  "datum": "2026-11-24"
+  "version": "0.8.6",
+  "groesse": 1319920,
+  "sha256": "7a1166f3642e1c572cf56961a734d40e747e6a7710899d1ad6a911b2c4a44add",
+  "bin": "firmware/0.8.6/voxling.bin",
+  "schein": "firmware/0.8.6/voxling.bin.schein",
+  "datum": "2026-11-24",
+  "aenderungen": [
+   {
+    "version": "0.8.6",
+    "de": [
+     "Der Voxling startet schneller.",
+     "Die Startanimation läuft flüssig durch."
+    ],
+    "en": [
+     "Your Voxling starts faster.",
+     "The start animation runs smoothly."
+    ]
+   },
+   {
+    "version": "0.8.5",
+    "de": [
+     "Neue Firmware kommt jetzt direkt über die App, ohne App-Update."
+    ],
+    "en": [
+     "New firmware now arrives directly through the app, without an app update."
+    ]
+   },
+   {
+    "version": "0.8.4",
+    "de": [
+     "Updates werden geprüft, bevor der Voxling sie annimmt."
+    ],
+    "en": [
+     "Updates are verified before your Voxling accepts them."
+    ]
+   },
+   {
+    "version": "0.8.3",
+    "de": [
+     "Die App zeigt Werte und Voxels von selbst aktuell an."
+    ],
+    "en": [
+     "The app keeps values and Voxels up to date by itself."
+    ]
+   },
+   {
+    "version": "0.8.2",
+    "de": [
+     "Dein Pet sagt, warum es gerade nicht spielen mag."
+    ],
+    "en": [
+     "Your pet tells you why it does not feel like playing."
+    ]
+   },
+   {
+    "version": "0.8.1",
+    "de": [
+     "Feinere Pixel: Dein Pet sieht runder und glatter aus."
+    ],
+    "en": [
+     "Finer pixels: your pet looks rounder and smoother."
+    ]
+   },
+   {
+    "version": "0.8.0",
+    "de": [
+     "Neue Gefühle: Dein Pet jubelt, weint, staunt und verliebt sich."
+    ],
+    "en": [
+     "New feelings: your pet cheers, cries, marvels and falls in love."
+    ]
+   }
+  ]
  }
 }
