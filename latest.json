@@ -1,13 +1,26 @@
 {
  "v": 1,
  "kunde": {
-  "version": "0.8.6",
-  "groesse": 1319920,
-  "sha256": "7a1166f3642e1c572cf56961a734d40e747e6a7710899d1ad6a911b2c4a44add",
-  "bin": "firmware/0.8.6/voxling.bin",
-  "schein": "firmware/0.8.6/voxling.bin.schein",
-  "datum": "2026-11-24",
+  "version": "0.8.7",
+  "groesse": 1322240,
+  "sha256": "7e22515155621c2a1c25254aad728494c71abd5fa46bee9daf1c263da959f828",
+  "bin": "firmware/0.8.7/voxling.bin",
+  "schein": "firmware/0.8.7/voxling.bin.schein",
+  "datum": "2026-11-25",
   "aenderungen": [
+   {
+    "version": "0.8.7",
+    "de": [
+     "Touch abgleichen ist genauer: neun Kreuze statt fünf, und ein verfehltes Kreuz tippst du einfach noch einmal.",
+     "Danach kannst du gleich ausprobieren, ob es passt.",
+     "Die Einstellungen haben größere Zeilen und unten eine Leiste zum Blättern. Knöpfe am unteren Rand reagieren besser."
+    ],
+    "en": [
+     "Touch calibration is more precise: nine crosses instead of five, and a missed cross is simply tapped again.",
+     "Afterwards you can try right away whether it fits.",
+     "Settings have larger rows and a bar at the bottom for paging. Buttons at the bottom edge respond better."
+    ]
+   },
    {
     "version": "0.8.6",
     "de": [
