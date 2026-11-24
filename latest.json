@@ -1,0 +1,11 @@
+{
+ "v": 1,
+ "kunde": {
+  "version": "0.8.5",
+  "groesse": 1318784,
+  "sha256": "b239a1e6579c5df6efe1caf17448ee14a763ca1f7b48ff2ca04843ddc7cda220",
+  "bin": "firmware/0.8.5/voxling.bin",
+  "schein": "firmware/0.8.5/voxling.bin.schein",
+  "datum": "2026-11-24"
+ }
+}
